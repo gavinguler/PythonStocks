@@ -1,2 +1,0 @@
-# PythonStocks
-Python trading tools
